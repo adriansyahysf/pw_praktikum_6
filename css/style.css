@@ -1,0 +1,21 @@
+.logo{
+    height: 90px;
+}
+
+.container{
+    color: black;
+    position: relative;
+}
+
+section {
+    display: -webkit-flex;
+    display: flex;
+  }
+
+  article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
